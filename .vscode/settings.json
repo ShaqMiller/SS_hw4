@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "utilities.h": "c",
+        "code_seq.h": "c"
+    }
+}
